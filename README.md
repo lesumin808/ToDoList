@@ -1,2 +1,2 @@
 # ToDoList
-## C(create) R(read) U(update) D(delete)
+### C(Create) R(Read) U(Update) D(Delete)
